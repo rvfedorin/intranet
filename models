@@ -1,0 +1,19 @@
+1. Device
+ - name
+ - Type
+ - model
+ - ip
+ - connection Port (up)
+ - description
+ - Ports
+ 
+ 2. Type
+  - name
+ 
+ 3. Port
+  - type
+  - connection [Device, End]
+  
+ 4. Region
+  - name
+  - Device
